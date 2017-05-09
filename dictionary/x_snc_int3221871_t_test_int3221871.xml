@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test INT3221871" max_length="40" name="x_snc_int3221871_t_test_int3221871" type="collection">
+        <element label="A Field" max_length="50" name="a_field" type="string"/>
+    </element>
+</database>
